@@ -1,1 +1,6 @@
 生物信息学实验数据.rar
+cache/
+.ipynb_checkpoints/
+figures/
+uv.lock
+dataset/
